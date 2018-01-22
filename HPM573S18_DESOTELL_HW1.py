@@ -1,5 +1,6 @@
 #PROBLEM 3
 #NATALEE DESOTELL
+#HPM 573 HOMEWORK 1
 
 n = 100 #for both functions, testing when n=100
 

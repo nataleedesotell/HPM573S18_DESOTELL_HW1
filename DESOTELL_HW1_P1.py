@@ -1,5 +1,6 @@
 #PROBLEM 1: PART 1
 #NATALEE DESOTELL
+#HPM 573 HOMEWORK 1
 
 # y1 is an integer
 y1 = 17
