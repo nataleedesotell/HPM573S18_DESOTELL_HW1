@@ -14,7 +14,7 @@ ours2.append(yours)
 print(ours1)
 print(ours2)
 
-#ours1 and ours2 differ how?
+#ours1 and ours2 differ how? 
 
 #PART 2
 yours = ["Yale", "MIT", "MSOE"]
@@ -25,5 +25,3 @@ print(ours1)
 print(ours2)
 
 #why does changing yours change ours2 but not ours1?
-
-
